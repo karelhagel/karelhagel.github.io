@@ -1,0 +1,12 @@
+com.fico.acm.api.events
+com.fico.acm.api.events.permissions
+com.fico.acm.api.model
+com.fico.acm.api.model.alert
+com.fico.acm.api.model.common
+com.fico.acm.api.model.customer
+com.fico.acm.api.model.office
+com.fico.acm.api.model.search
+com.fico.acm.api.model.suspentity
+com.fico.acm.api.model.transaction
+com.fico.acm.api.util
+com.fico.acm.commons.api.model
